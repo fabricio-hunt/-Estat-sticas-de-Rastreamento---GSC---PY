@@ -11,4 +11,7 @@ O objetivo deste projeto é apresentar um gráfico que resume as informações d
 - **Python**: Linguagem de programação utilizada.
 - **Plotly**: Biblioteca de visualização interativa usada para criar o gráfico de barras empilhadas.
 
+- 
+
+![detalhamento](https://github.com/user-attachments/assets/e78c0a9b-5724-4ee6-a7f8-f23eb5c42ef3)
 
